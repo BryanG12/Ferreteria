@@ -29,7 +29,7 @@ export const LoginPage = () => {
           ¿No tiene usuario? <a href="#">Comunicate con el Administrador.</a>
         </div>
       </div>
-      <div className="login-card-social">
+      {/* <div className="login-card-social">
         <div className='font-weight-bold' >Contacto</div>
         <div className="login-card-social-btns">
           <a href="#">
@@ -41,7 +41,7 @@ export const LoginPage = () => {
             </svg>
           </a>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
